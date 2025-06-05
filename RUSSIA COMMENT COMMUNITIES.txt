@@ -1,0 +1,1172 @@
+
+===== Community 0 =====
+Size: 620 users
+
+Top 10 users by PageRank:
+              name  pagerank
+0   2010MisterChip  0.035710
+1  fifaworldcup_es  0.025198
+2    miseleccionmx  0.018859
+3    DIRECTVSports  0.016018
+4   Faitelson_ESPN  0.008570
+5    InvictosSomos  0.007287
+6     FOXSportsArg  0.006895
+7      giraltpablo  0.006743
+8    SeleccionPeru  0.006600
+9      DFB_Team_ES  0.006309
+
+Top 10 by In Degree:
+              name  in_degree
+0    DIRECTVSports     1012.0
+1   2010MisterChip      638.0
+2  fifaworldcup_es      422.0
+3    miseleccionmx      202.0
+4        TyCSports      123.0
+5   Faitelson_ESPN      121.0
+6     VarskySports      111.0
+7    InvictosSomos      110.0
+8        DIRECTVCo       96.0
+9     FOXSportsArg       95.0
+
+Top 5 by Out Degree:
+              name  out_degree
+0   francoisreal88       335.0
+1  Angelik_Silva21       203.0
+2   foristadigital       201.0
+3  PaisDeMaricadas       174.0
+4  oficialhattrick       163.0
+
+Top 5 by Total Degree:
+              name   total
+0    DIRECTVSports  1012.0
+1   2010MisterChip   638.0
+2  fifaworldcup_es   422.0
+3   francoisreal88   335.0
+4  Angelik_Silva21   204.0
+
+Percentage of interactions within same community: 83.84%
+Most interacted with communities:
+Community 2: 46.37%
+Community 9: 42.15%
+Community 11: 4.27%
+
+===== Community 1 =====
+Size: 384 users
+
+Top 10 users by PageRank:
+              name  pagerank
+0      OnzeMondial  0.020868
+1  lequipedestelle  0.019322
+2          Betclic  0.012968
+3        ActuFoot_  0.010932
+4     Footballogue  0.010552
+5   EmmanuelMacron  0.010187
+6          lequipe  0.009952
+7     WinamaxSport  0.009360
+8            BFMTV  0.009322
+9         RMCsport  0.009246
+
+Top 10 by In Degree:
+              name  in_degree
+0     UnibetFrance      365.0
+1  lequipedestelle      348.0
+2  fifaworldcup_fr      265.0
+3          lequipe      226.0
+4      OnzeMondial      209.0
+5     WinamaxSport      208.0
+6         RMCsport      194.0
+7    lequipedusoir      175.0
+8    beinsports_FR      154.0
+9          Betclic      152.0
+
+Top 5 by Out Degree:
+              name  out_degree
+0  SuspensionHist1      2052.0
+1     ForestGump75       242.0
+2       dream_ange       205.0
+3      alibaba2935       181.0
+4       macaya2017       165.0
+
+Top 5 by Total Degree:
+              name   total
+0  SuspensionHist1  2052.0
+1     UnibetFrance   365.0
+2  lequipedestelle   348.0
+3  fifaworldcup_fr   265.0
+4     ForestGump75   243.0
+
+Percentage of interactions within same community: 86.96%
+Most interacted with communities:
+Community 9: 55.25%
+Community 2: 27.89%
+Community 8: 5.25%
+
+===== Community 2 =====
+Size: 1441 users
+
+Top 10 users by PageRank:
+             name  pagerank
+0    FIFAWorldCup  0.099340
+1   TwitterSports  0.058690
+2  danielstorey85  0.028514
+3       FOXSports  0.010726
+4      brfootball  0.010005
+5        iambolar  0.009274
+6       FOXSoccer  0.009117
+7       WWECesaro  0.008811
+8    sweta_mondal  0.008728
+9   NGSuperEagles  0.006942
+
+Top 10 by In Degree:
+              name  in_degree
+0     FIFAWorldCup     7785.0
+1       brfootball      691.0
+2        FOXSoccer      525.0
+3      DFB_Team_EN      262.0
+4             goal      252.0
+5        Argentina      211.0
+6  ChampionsLeague      183.0
+7           ESPNFC      178.0
+8         DFB_Team      166.0
+9    NGSuperEagles      149.0
+
+Top 5 by Out Degree:
+              name  out_degree
+0          iamwbis       817.0
+1     WATCHMATCHTV       615.0
+2    Rajab_Elmahdi       574.0
+3        darrylp39       413.0
+4  ElenaSm93673659       341.0
+
+Top 5 by Total Degree:
+            name   total
+0   FIFAWorldCup  7788.0
+1        iamwbis   830.0
+2     brfootball   691.0
+3   WATCHMATCHTV   619.0
+4  Rajab_Elmahdi   575.0
+
+Percentage of interactions within same community: 72.27%
+Most interacted with communities:
+Community 9: 37.42%
+Community 8: 29.53%
+Community 11: 8.79%
+
+===== Community 3 =====
+Size: 28 users
+
+Top 10 users by PageRank:
+              name  pagerank
+0    cheiromarilia  0.107727
+1   Canavialdalila  0.105702
+2  comofazcomela_M  0.058644
+3  todoamormarilia  0.055200
+4  florzinhadamari  0.053347
+5  impassemariliam  0.049757
+6  teguardomarilia  0.049355
+7  porvocemariliam  0.044865
+8    mminhaheranca  0.042685
+9    InfosMariliaM  0.041332
+
+Top 10 by In Degree:
+              name  in_degree
+0    cheiromarilia      123.0
+1   Canavialdalila      112.0
+2    InfosMariliaM      108.0
+3  todoamormarilia       69.0
+4  comofazcomela_M       46.0
+5  teguardomarilia       34.0
+6  impassemariliam       28.0
+7  florzinhadamari       23.0
+8  porvocemariliam       22.0
+9  DiariodeumafaMM       21.0
+
+Top 5 by Out Degree:
+              name  out_degree
+0   Canavialdalila       127.0
+1    cheiromarilia       115.0
+2   familiamendonc       106.0
+3  porvocemariliam        56.0
+4      raridademmm        50.0
+
+Top 5 by Total Degree:
+              name  total
+0   Canavialdalila  239.0
+1    cheiromarilia  238.0
+2    InfosMariliaM  108.0
+3   familiamendonc  106.0
+4  todoamormarilia   78.0
+
+Percentage of interactions within same community: 99.93%
+Most interacted with communities:
+Community 2: 100.00%
+Community 0: 0.00%
+Community 1: 0.00%
+
+===== Community 4 =====
+Size: 69 users
+
+Top 10 users by PageRank:
+              name  pagerank
+0    mobilbahiscom  0.098729
+1   bets10official  0.078075
+2  dafabetofficial  0.076659
+3    princessbetTR  0.023969
+4      hepsi_bahis  0.023945
+5    sekabetyardim  0.023572
+6        betpercom  0.020798
+7  galaxybettingtw  0.020590
+8  betturkaoffical  0.019782
+9         BetsatTR  0.019735
+
+Top 10 by In Degree:
+              name  in_degree
+0    mobilbahiscom      365.0
+1   bets10official      262.0
+2  dafabetofficial      255.0
+3        betpercom       35.0
+4      Tipcombahis       34.0
+5      hepsi_bahis       34.0
+6    sekabetyardim       33.0
+7  betturkaoffical       32.0
+8    princessbetTR       32.0
+9         BetsatTR       32.0
+
+Top 5 by Out Degree:
+         name  out_degree
+0  thenetroxx       119.0
+1  diyanetbet       119.0
+2     du4d354       100.0
+3      dgol34       100.0
+4     dugol34       100.0
+
+Top 5 by Total Degree:
+              name  total
+0    mobilbahiscom  365.0
+1   bets10official  262.0
+2  dafabetofficial  255.0
+3       thenetroxx  119.0
+4       diyanetbet  119.0
+
+Percentage of interactions within same community: 99.72%
+Most interacted with communities:
+Community 2: 85.71%
+Community 9: 14.29%
+Community 0: 0.00%
+
+===== Community 5 =====
+Size: 797 users
+
+Top 10 users by PageRank:
+              name  pagerank
+0  BergerPaintsInd  0.047155
+1   TecnoMobileInd  0.042508
+2      acmefitness  0.040333
+3       Vivo_India  0.036809
+4       OnePlus_IN  0.024804
+5    rapidobikeapp  0.023514
+6     HyundaiIndia  0.018026
+7    BSNLCorporate  0.013692
+8    Bluetieglobal  0.009411
+9      NipponIndia  0.006745
+
+Top 10 by In Degree:
+              name  in_degree
+0  BergerPaintsInd     3583.0
+1      acmefitness     3171.0
+2       Vivo_India     3152.0
+3   TecnoMobileInd     2992.0
+4    rapidobikeapp     2056.0
+5       OnePlus_IN     1627.0
+6    BSNLCorporate     1249.0
+7     HyundaiIndia     1204.0
+8    Bluetieglobal      918.0
+9      NipponIndia      485.0
+
+Top 5 by Out Degree:
+              name  out_degree
+0        infinx230       510.0
+1  Thee_Muffin_Men       510.0
+2  Rajsonk58167775       429.0
+3       iKrrishana       370.0
+4     witty_vishal       353.0
+
+Top 5 by Total Degree:
+              name   total
+0  BergerPaintsInd  3583.0
+1      acmefitness  3171.0
+2       Vivo_India  3152.0
+3   TecnoMobileInd  2992.0
+4    rapidobikeapp  2056.0
+
+Percentage of interactions within same community: 98.71%
+Most interacted with communities:
+Community 2: 64.03%
+Community 10: 11.87%
+Community 9: 8.03%
+
+===== Community 6 =====
+Size: 60 users
+
+Top 10 users by PageRank:
+              name  pagerank
+0      ReNgo_Sport  0.034249
+1  beINSPORTS_MENA  0.032670
+2       AjelNews24  0.032206
+3     Chaouali1970  0.025685
+4          HashKSA  0.025427
+5          FilGoal  0.023353
+6         EPLworld  0.023272
+7          ajlnews  0.023244
+8       FlFAWC2018  0.023116
+9   khalidjassem74  0.022860
+
+Top 10 by In Degree:
+              name  in_degree
+0   khalidjassem74      133.0
+1      ReNgo_Sport       69.0
+2     sadaalmalaeb       59.0
+3          RM4Arab       36.0
+4       AjelNews24       36.0
+5         AlRiyadh       33.0
+6       korarotana       28.0
+7        UclArabic       28.0
+8  beINSPORTS_MENA       27.0
+9     Chaouali1970       25.0
+
+Top 5 by Out Degree:
+            name  out_degree
+0        haksah9       316.0
+1         FB_Gir       115.0
+2  rAmalIbrahim1        44.0
+3  SaudiNews2018        31.0
+4   NinaForever7        29.0
+
+Top 5 by Total Degree:
+             name  total
+0         haksah9  316.0
+1  khalidjassem74  133.0
+2          FB_Gir  115.0
+3     ReNgo_Sport   69.0
+4    sadaalmalaeb   59.0
+
+Percentage of interactions within same community: 82.38%
+Most interacted with communities:
+Community 2: 54.25%
+Community 11: 17.01%
+Community 9: 15.54%
+
+===== Community 7 =====
+Size: 114 users
+
+Top 10 users by PageRank:
+              name  pagerank
+0    CastleLagerSA  0.068633
+1     SuperSportTV  0.061546
+2          nealcol  0.045041
+3      BudweiserSA  0.043659
+4   WorldSportsBet  0.035800
+5      CocaCola_ZA  0.033522
+6      SPORTATSABC  0.032925
+7       YesWeCrann  0.022246
+8     AdolfRivombo  0.020157
+9  KickOffMagazine  0.018941
+
+Top 10 by In Degree:
+             name  in_degree
+0   CastleLagerSA      374.0
+1     CocaCola_ZA      363.0
+2    SuperSportTV      177.0
+3  WorldSportsBet      169.0
+4     BudweiserSA      125.0
+5     SPORTATSABC      124.0
+6      TOPSatSPAR       76.0
+7   VodacomSoccer       44.0
+8   Soccer_Laduma       42.0
+9      YesWeCrann       40.0
+
+Top 5 by Out Degree:
+            name  out_degree
+0    NishyWezSyd       252.0
+1     Dj_Realman       100.0
+2    vuyosimawo_        62.0
+3       clintano        62.0
+4  tallboyludwig        57.0
+
+Top 5 by Total Degree:
+             name  total
+0   CastleLagerSA  395.0
+1     CocaCola_ZA  371.0
+2     NishyWezSyd  254.0
+3    SuperSportTV  177.0
+4  WorldSportsBet  169.0
+
+Percentage of interactions within same community: 83.01%
+Most interacted with communities:
+Community 2: 59.76%
+Community 8: 17.81%
+Community 9: 13.59%
+
+===== Community 8 =====
+Size: 720 users
+
+Top 10 users by PageRank:
+           name  pagerank
+0       BBCMOTD  0.069823
+1      BBCSport  0.036149
+2   GaryLineker  0.034449
+3   piersmorgan  0.014610
+4    5liveSport  0.009256
+5     talkSPORT  0.007567
+6   alanshearer  0.006453
+7    IanWright0  0.005918
+8        Cnyari  0.005562
+9  fussballchef  0.005543
+
+Top 10 by In Degree:
+             name  in_degree
+0         BBCMOTD      865.0
+1        BBCSport      823.0
+2     GaryLineker      487.0
+3      5liveSport      278.0
+4     piersmorgan      183.0
+5         Twitter      101.0
+6       talkSPORT       93.0
+7    rogerfederer       82.0
+8  MirrorFootball       79.0
+9      IanWright0       76.0
+
+Top 5 by Out Degree:
+            name  out_degree
+0   myfacehunter       489.0
+1  SmartSanta007       237.0
+2  HolohanTrevor       217.0
+3        jassemi       150.0
+4       Bernice_       146.0
+
+Top 5 by Total Degree:
+           name  total
+0       BBCMOTD  865.0
+1      BBCSport  824.0
+2  myfacehunter  490.0
+3   GaryLineker  487.0
+4    5liveSport  279.0
+
+Percentage of interactions within same community: 63.03%
+Most interacted with communities:
+Community 2: 57.40%
+Community 9: 23.74%
+Community 11: 10.40%
+
+===== Community 9 =====
+Size: 692 users
+
+Top 10 users by PageRank:
+             name  pagerank
+0         England  0.035089
+1       Cristiano  0.019446
+2           HKane  0.018178
+3     CBF_Futebol  0.014572
+4         KMbappe  0.012323
+5  equipedefrance  0.012022
+6      FrenchTeam  0.010579
+7    hazardeden10  0.009499
+8    BelRedDevils  0.009385
+9    lukamodric10  0.007511
+
+Top 10 by In Degree:
+             name  in_degree
+0         England      924.0
+1  equipedefrance      728.0
+2    BelRedDevils      527.0
+3     itvfootball      497.0
+4         HNS_CFF      417.0
+5     CBF_Futebol      340.0
+6           HKane      271.0
+7         Uruguay      267.0
+8      TeamRussia      245.0
+9       Cristiano      214.0
+
+Top 5 by Out Degree:
+              name  out_degree
+0  Daminous_Purity      2999.0
+1    scotty2smithy       563.0
+2         JF_Viaud       271.0
+3   artistadesign_       263.0
+4           _Ysr99       226.0
+
+Top 5 by Total Degree:
+              name   total
+0  Daminous_Purity  2999.0
+1          England   924.0
+2   equipedefrance   728.0
+3    scotty2smithy   564.0
+4     BelRedDevils   528.0
+
+Percentage of interactions within same community: 65.69%
+Most interacted with communities:
+Community 2: 54.44%
+Community 8: 17.77%
+Community 1: 10.69%
+
+===== Community 10 =====
+Size: 562 users
+
+Top 10 users by PageRank:
+              name  pagerank
+0   ThePerfumeShop  0.019696
+1       1stCentral  0.015920
+2       JDFootball  0.014773
+3       KitSoundUK  0.014264
+4  LetterboxSweets  0.011326
+5        coop_food  0.010047
+6     BargainBooze  0.008110
+7    ClickScolmore  0.007973
+8    AutoTrader_UK  0.007659
+9        Ladbrokes  0.007650
+
+Top 10 by In Degree:
+              name  in_degree
+0   ThePerfumeShop      374.0
+1       KitSoundUK      313.0
+2       JDFootball      309.0
+3       1stCentral      251.0
+4  LetterboxSweets      221.0
+5    ClickScolmore      202.0
+6     BargainBooze      180.0
+7        coop_food      157.0
+8    AutoTrader_UK      129.0
+9   GrosvenorSport      128.0
+
+Top 5 by Out Degree:
+              name  out_degree
+0    serenacooper4       338.0
+1    bev_metallica       279.0
+2      thelordluck       222.0
+3     City_Chick69       197.0
+4  Natalie41783835       151.0
+
+Top 5 by Total Degree:
+             name  total
+0  ThePerfumeShop  374.0
+1   serenacooper4  339.0
+2      KitSoundUK  313.0
+3      JDFootball  309.0
+4   bev_metallica  279.0
+
+Percentage of interactions within same community: 95.14%
+Most interacted with communities:
+Community 2: 36.81%
+Community 8: 25.06%
+Community 5: 11.87%
+
+===== Community 11 =====
+Size: 268 users
+
+Top 10 users by PageRank:
+              name  pagerank
+0  realDonaldTrump  0.037296
+1          FoxNews  0.017574
+2              CNN  0.017049
+3          Reuters  0.013625
+4          BBCNews  0.011754
+5          SkyNews  0.011588
+6          thehill  0.011225
+7      Independent  0.011040
+8         guardian  0.010082
+9     CGTNOfficial  0.008609
+
+Top 10 by In Degree:
+              name  in_degree
+0  realDonaldTrump      353.0
+1              CNN      313.0
+2          FoxNews      206.0
+3          thehill      144.0
+4      CNNPolitics      120.0
+5          SkyNews       92.0
+6          Reuters       91.0
+7          BBCNews       85.0
+8         guardian       83.0
+9           cnnbrk       82.0
+
+Top 5 by Out Degree:
+              name  out_degree
+0     RazamaKhatun       427.0
+1           zeznom       254.0
+2  etmbreakingnews       140.0
+3        HenryOray       140.0
+4  Website87802816       103.0
+
+Top 5 by Total Degree:
+              name  total
+0     RazamaKhatun  427.0
+1  realDonaldTrump  353.0
+2              CNN  313.0
+3           zeznom  254.0
+4          FoxNews  206.0
+
+Percentage of interactions within same community: 72.99%
+Most interacted with communities:
+Community 2: 49.90%
+Community 8: 30.37%
+Community 9: 7.50%
+
+===== Community 12 =====
+Size: 17 users
+
+Top 10 users by PageRank:
+            name  pagerank
+0         TyrFur  0.143556
+1    wallasEkatt  0.117962
+2       ToddyFur  0.098197
+3       SeattleP  0.084015
+4       mogsbear  0.071265
+5    OwenTheTonk  0.068808
+6      spike_cat  0.055827
+7  cafrindorrell  0.049552
+8        bijntje  0.047805
+9   HarrisTweedy  0.040579
+
+Top 10 by In Degree:
+            name  in_degree
+0         TyrFur       56.0
+1    wallasEkatt       48.0
+2       ToddyFur       43.0
+3       SeattleP       38.0
+4       mogsbear       26.0
+5      spike_cat       24.0
+6    OwenTheTonk       23.0
+7  cafrindorrell       18.0
+8     jezzerbear       15.0
+9        bijntje       13.0
+
+Top 5 by Out Degree:
+           name  out_degree
+0        TyrFur        87.0
+1   wallasEkatt        73.0
+2      SeattleP        44.0
+3  HarrisTweedy        25.0
+4     spike_cat        20.0
+
+Top 5 by Total Degree:
+          name  total
+0       TyrFur  143.0
+1  wallasEkatt  121.0
+2     SeattleP   82.0
+3     ToddyFur   63.0
+4    spike_cat   44.0
+
+Percentage of interactions within same community: 99.60%
+Most interacted with communities:
+Community 2: 100.00%
+Community 0: 0.00%
+Community 1: 0.00%
+
+===== Community 13 =====
+Size: 62 users
+
+Top 10 users by PageRank:
+              name  pagerank
+0  FoxSportsBrasil  0.078975
+1           SporTV  0.065446
+2  globoesportecom  0.055909
+3        lbertozzi  0.036281
+4        ESPNagora  0.036077
+5      Miltonneves  0.034131
+6   Esp_Interativo  0.027992
+7            folha  0.026237
+8     InfosFuteboI  0.022232
+9    DonaLuciaHexa  0.021884
+
+Top 10 by In Degree:
+              name  in_degree
+0  FoxSportsBrasil       61.0
+1  globoesportecom       54.0
+2           SporTV       47.0
+3        ESPNagora       43.0
+4            folha       31.0
+5     InfosFuteboI       26.0
+6   Esp_Interativo       23.0
+7          Estadao       19.0
+8        jackieaus       18.0
+9      Miltonneves       16.0
+
+Top 5 by Out Degree:
+              name  out_degree
+0      zildapsilva        52.0
+1    MBrasilOnline        33.0
+2  junior013santos        30.0
+3         Vovo_702        29.0
+4         Vovo_Sdv        29.0
+
+Top 5 by Total Degree:
+              name  total
+0  FoxSportsBrasil   61.0
+1  globoesportecom   54.0
+2      zildapsilva   52.0
+3           SporTV   47.0
+4        ESPNagora   43.0
+
+Percentage of interactions within same community: 74.74%
+Most interacted with communities:
+Community 2: 44.56%
+Community 9: 31.63%
+Community 0: 9.86%
+
+===== Community 14 =====
+Size: 41 users
+
+Top 10 users by PageRank:
+              name  pagerank
+0          popitas  0.128274
+1  lifeinformatica  0.077990
+2         carrusel  0.050347
+3           mms_es  0.047624
+4   ProD_Soccer_ES  0.043073
+5    Mundo_Facundo  0.031375
+6      JimbeeMelon  0.029688
+7       miguelanez  0.027823
+8         gizlogic  0.026669
+9  bodegaselinicio  0.024901
+
+Top 10 by In Degree:
+              name  in_degree
+0          popitas      136.0
+1  lifeinformatica       72.0
+2           mms_es       39.0
+3   ProD_Soccer_ES       29.0
+4    Mundo_Facundo       28.0
+5         carrusel       21.0
+6      JimbeeMelon       16.0
+7       miguelanez       11.0
+8  bodegaselinicio       11.0
+9         gizlogic       10.0
+
+Top 5 by Out Degree:
+              name  out_degree
+0    Andres16Reyes        50.0
+1     Anacollhomet        26.0
+2  Girasol_dormido        22.0
+3         _Dumain_        21.0
+4    JuanCarballal        21.0
+
+Top 5 by Total Degree:
+              name  total
+0          popitas  136.0
+1  lifeinformatica   72.0
+2    Andres16Reyes   50.0
+3           mms_es   39.0
+4   ProD_Soccer_ES   29.0
+
+Percentage of interactions within same community: 96.61%
+Most interacted with communities:
+Community 0: 39.29%
+Community 2: 28.57%
+Community 9: 17.86%
+
+===== Community 15 =====
+Size: 25 users
+
+Top 10 users by PageRank:
+             name  pagerank
+0    473Liverpool  0.164557
+1       ColeyKora  0.136045
+2  KingHafimawesi  0.068406
+3      wonakicise  0.063156
+4       wael_kaba  0.052608
+5    JuventosRipa  0.051006
+6        467Sport  0.037321
+7         466Real  0.036289
+8       Oudagh465  0.035951
+9        sanias15  0.026778
+
+Top 10 by In Degree:
+             name  in_degree
+0       ColeyKora       67.0
+1      wonakicise       24.0
+2  KingHafimawesi       22.0
+3    JuventosRipa       16.0
+4        467Sport       11.0
+5       Oudagh465       10.0
+6    473Liverpool        9.0
+7       wael_kaba        9.0
+8         466Real        8.0
+9        sanias15        4.0
+
+Top 5 by Out Degree:
+           name  out_degree
+0        gecugi        21.0
+1       bizara5        17.0
+2       vara110        14.0
+3     sazidugov        14.0
+4  RalesirFisal        13.0
+
+Top 5 by Total Degree:
+             name  total
+0       ColeyKora   68.0
+1      wonakicise   24.0
+2  KingHafimawesi   22.0
+3          gecugi   21.0
+4    JuventosRipa   19.0
+
+Percentage of interactions within same community: 99.19%
+Most interacted with communities:
+Community 2: 66.67%
+Community 9: 33.33%
+Community 0: 0.00%
+
+===== Community 16 =====
+Size: 138 users
+
+Top 10 users by PageRank:
+             name  pagerank
+0  234BetOfficial  0.043273
+1     iRechargeNG  0.033670
+2     TaxiSalamNG  0.033415
+3        dexxtero  0.029047
+4       MARKDIDDY  0.020422
+5      Brilafm889  0.019959
+6    Roseangel009  0.018712
+7    ChekiNigeria  0.017855
+8        NFFCshow  0.016919
+9        babyulez  0.016788
+
+Top 10 by In Degree:
+             name  in_degree
+0     iRechargeNG      126.0
+1  234BetOfficial      120.0
+2     TaxiSalamNG       81.0
+3    ChekiNigeria       68.0
+4        NFFCshow       34.0
+5   snipernigeria       32.0
+6      Brilafm889       28.0
+7         snowmfb       27.0
+8      AdronHomes       25.0
+9    phantompozer       25.0
+
+Top 5 by Out Degree:
+           name  out_degree
+0      babz_tee        64.0
+1     cutekay94        63.0
+2    Chibuzuela        57.0
+3  Wale_Julius_        55.0
+4     Ololade_J        48.0
+
+Top 5 by Total Degree:
+             name  total
+0     iRechargeNG  126.0
+1  234BetOfficial  123.0
+2     TaxiSalamNG   81.0
+3    ChekiNigeria   68.0
+4        babz_tee   64.0
+
+Percentage of interactions within same community: 87.83%
+Most interacted with communities:
+Community 2: 53.37%
+Community 5: 16.87%
+Community 9: 11.96%
+
+===== Community 17 =====
+Size: 19 users
+
+Top 10 users by PageRank:
+              name  pagerank
+0  filomena_ruybal  0.135971
+1     soloastarwar  0.128240
+2    FIFAWordCup18  0.081100
+3       WendyDill8  0.072950
+4  marionwampler52  0.065361
+5   SusanSchoenber  0.063428
+6  2018FIFAWorldC9  0.059072
+7      kdelapaz613  0.048793
+8      SonyaBevis3  0.047797
+9    AngelaPartin7  0.046600
+
+Top 10 by In Degree:
+              name  in_degree
+0  marionwampler52       33.0
+1  filomena_ruybal       27.0
+2     soloastarwar       25.0
+3    FIFAWordCup18       19.0
+4   SusanSchoenber       18.0
+5      SonyaBevis3       16.0
+6  GailHam27988029       15.0
+7  2018FIFAWorldC9       13.0
+8      kdelapaz613       13.0
+9       WendyDill8       13.0
+
+Top 5 by Out Degree:
+             name  out_degree
+0  fifa2018livetv        38.0
+1   soccerliveTV6        35.0
+2    SexyannaGray        24.0
+3      nflonline2        23.0
+4     kdelapaz613        21.0
+
+Top 5 by Total Degree:
+              name  total
+0  marionwampler52   39.0
+1    soccerliveTV6   38.0
+2   fifa2018livetv   38.0
+3  filomena_ruybal   34.0
+4       nflonline2   34.0
+
+Percentage of interactions within same community: 99.33%
+Most interacted with communities:
+Community 2: 100.00%
+Community 0: 0.00%
+Community 1: 0.00%
+
+
+
+
+LANGUAGES AND HASHTAGS
+
+Community 0:
+  Top 5 Languages:
+    Spanish: 87.14%
+    English: 8.57%
+    Portuguese: 0.90%
+    Catalan: 0.78%
+    French: 0.72%
+  Top 5 Hashtags:
+    #Rusia2018: 48512
+    #MEX: 13895
+    #FRA: 12457
+    #CRO: 11583
+    #WorldCup: 10536
+
+Community 1:
+  Top 5 Languages:
+    French: 88.20%
+    English: 6.96%
+    Spanish: 0.99%
+    Danish: 0.97%
+    German: 0.48%
+  Top 5 Hashtags:
+    #CM2018: 34546
+    #WorldCup: 9908
+    #FRA: 8698
+    #cm2018: 5839
+    #FRACRO: 5366
+
+Community 2:
+  Top 5 Languages:
+    English: 81.09%
+    Spanish: 6.29%
+    German: 3.11%
+    Portuguese: 1.65%
+    Indonesian: 1.41%
+  Top 5 Hashtags:
+    #WorldCup: 142857
+    #ENG: 23315
+    #FRA: 19227
+    #CRO: 17349
+    #BEL: 15598
+
+Community 3:
+  Top 5 Languages:
+    Portuguese: 88.77%
+    Spanish: 4.85%
+    English: 2.31%
+    French: 0.90%
+    Italian: 0.57%
+  Top 5 Hashtags:
+    #AusênciaNasRadios: 2514
+    #AusênciaNasRádios: 637
+    #Ausêncianasradios: 30
+    #AusenciaNasRadios: 11
+    #BRA: 8
+
+Community 4:
+  Top 5 Languages:
+    Turkish: 90.08%
+    Indonesian: 4.05%
+    Spanish: 1.01%
+    English: 1.00%
+    Haitian Creole: 0.44%
+  Top 5 Hashtags:
+    #WorldCup: 2938
+    #mobilbahis: 1317
+    #Bets10kupa: 1080
+    #FRA: 976
+    #CRO: 833
+
+Community 5:
+  Top 5 Languages:
+    English: 92.86%
+    French: 1.85%
+    Spanish: 1.28%
+    Indonesian: 0.82%
+    Italian: 0.55%
+  Top 5 Hashtags:
+    #WorldCup: 31581
+    #FRA: 8517
+    #CRO: 7773
+    #ENG: 7207
+    #WinWithTecno: 6180
+
+Community 6:
+  Top 5 Languages:
+    Arabic: 96.02%
+    English: 3.72%
+    French: 0.10%
+    Portuguese: 0.03%
+    Spanish: 0.02%
+  Top 5 Hashtags:
+    #روسيا2018: 9990
+    #WorldCup: 9210
+    #كأس_العالم: 3554
+    #كاس_العالم: 2167
+    #كورة_روتانا: 2089
+
+Community 7:
+  Top 5 Languages:
+    English: 91.09%
+    Spanish: 1.81%
+    Indonesian: 1.48%
+    French: 0.68%
+    Portuguese: 0.63%
+  Top 5 Hashtags:
+    #WorldCup: 17191
+    #SABCKuzobalit: 1787
+    #KOLive: 1584
+    #ENG: 1343
+    #CRO: 1233
+
+Community 8:
+  Top 5 Languages:
+    English: 93.61%
+    Polish: 1.94%
+    German: 1.29%
+    Spanish: 0.69%
+    Indonesian: 0.38%
+  Top 5 Hashtags:
+    #WorldCup: 77241
+    #ENG: 21007
+    #worldcup: 9525
+    #CRO: 6532
+    #ThreeLions: 5921
+
+Community 9:
+  Top 5 Languages:
+    English: 49.38%
+    Spanish: 23.35%
+    French: 15.05%
+    Portuguese: 2.84%
+    Swedish: 1.31%
+  Top 5 Hashtags:
+    #WorldCup: 79626
+    #Rusia2018: 32854
+    #ENG: 19120
+    #FIFA: 18909
+    #Football: 18751
+
+Community 10:
+  Top 5 Languages:
+    English: 97.11%
+    Spanish: 0.69%
+    French: 0.56%
+    Indonesian: 0.48%
+    Estonian: 0.17%
+  Top 5 Hashtags:
+    #WorldCup: 25995
+    #ENG: 6982
+    #win: 4446
+    #WIN: 3349
+    #Win: 2036
+
+Community 11:
+  Top 5 Languages:
+    English: 82.07%
+    Chinese: 10.65%
+    Russian: 2.81%
+    Arabic: 0.69%
+    Spanish: 0.64%
+  Top 5 Hashtags:
+    #WorldCup: 20640
+    #泛亚: 2864
+    #BBC: 2228
+    #CNN: 2221
+    #Trump: 2145
+
+Community 12:
+  Top 5 Languages:
+    English: 96.69%
+    Dutch: 0.83%
+    Indonesian: 0.83%
+    Portuguese: 0.33%
+    French: 0.33%
+  Top 5 Hashtags:
+    #AWCup: 343
+    #WorldCup: 244
+    #ENG: 139
+    #BEL: 60
+    #CRO: 56
+
+Community 13:
+  Top 5 Languages:
+    Portuguese: 84.08%
+    Spanish: 7.35%
+    English: 5.85%
+    German: 0.48%
+    French: 0.35%
+  Top 5 Hashtags:
+    #Copa2018: 3021
+    #WorldCup: 2641
+    #JogaOQueSabe: 1596
+    #BRA: 1585
+    #FRA: 991
+
+Community 14:
+  Top 5 Languages:
+    Spanish: 83.36%
+    English: 8.94%
+    Italian: 1.61%
+    Portuguese: 1.25%
+    Catalan: 0.76%
+  Top 5 Hashtags:
+    #Rusia2018: 994
+    #ESP: 513
+    #FRA: 332
+    #CRO: 284
+    #RUS: 218
+
+Community 15:
+  Top 5 Languages:
+    English: 97.38%
+    Spanish: 1.61%
+    French: 0.20%
+    Indonesian: 0.20%
+    Danish: 0.20%
+  Top 5 Hashtags:
+    #WorldCup: 221
+    #Rusia2018: 167
+    #ENG: 123
+    #CRO: 80
+    #BEL: 76
+
+Community 16:
+  Top 5 Languages:
+    English: 92.12%
+    French: 1.68%
+    Spanish: 1.57%
+    Indonesian: 1.27%
+    German: 0.37%
+  Top 5 Hashtags:
+    #WorldCup: 5815
+    #YourSportsMemo: 1164
+    #NGA: 923
+    #FRA: 830
+    #SterlingBank: 827
+
+Community 17:
+  Top 5 Languages:
+    English: 99.83%
+    Indonesian: 0.17%
+  Top 5 Hashtags:
+    #WorldCup: 866
+    #ENG: 90
+    #England: 86
+    #FRA: 68
+    #France: 65
